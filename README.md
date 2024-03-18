@@ -61,7 +61,8 @@ The company's innovative strategies, like training neural networks to carry out 
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-### ****Disclaimer: Adept AI's code is proprietary and protected. I gathered as much information as possible from publicly available sources, cited within this research. I found the open-source code for their development of Persimmon-8B and referenced the available code below.
+> [!IMPORTANT]
+> Disclaimer: Adept AI's code is proprietary and protected. I gathered as much information as possible from publicly available sources, cited within this research. I found the open-source code for their development of Persimmon-8B and referenced the available code below.
 
 [Adept.ai](http://adept.ai/) leverages advanced tools and a complex programming stack to develop innovative AI technologies. They use Metaflow in conjunction with Argo on Kubernetes to optimize and monitor their machine learning processes. This not only enhances the efficiency of managing machine learning workflows and large language models but also aligns with their goal of creating transformers that can interact with various computer applications. [^16]
 
