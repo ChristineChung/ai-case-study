@@ -4,23 +4,23 @@ Module 1 Challenge
 
 Due date: 3/21/24 @ 11:59pm
 
-# **# _Adept Ai -Reinventing User Experience: AI That Masters Your Software_**
+# _Adept Ai -Reinventing User Experience: AI That Masters Your Software_
 
 ## Overview and Origin
 
-***Name of company***
+### Name of company
 
 Adept AI 
 
-***When was the company incorporated?***
+### When was the company incorporated?
 
 Jan 2022 
 
-***Who are the founders of the company?***
+### Who are the founders of the company?
 
 Ashish Vaswani, David Luan, Niki Parmar
 
-***How did the idea for the company (or project) come about?***
+### How did the idea for the company (or project) come about?
 
 The three co-founders of Adept AI - Chief Scientist Ashish Vaswani and CTO Niki Parmar - were former employees of Google Brain. They were part of the team that developed the transformer model architecture, a key component in applications like GPT-3.
 
@@ -28,7 +28,7 @@ At Google, their aim was to create a transformer that could handle all kinds of 
 
 > *In Luan's words, “We’re not trying to replace humans at valuable tasks, like some other companies might be aiming to do. Our goal is simply to build the best AI teammate possible for everyone.” [19]*
 
-***How is the company funded? How much funding have they received?***
+### How is the company funded? How much funding have they received?
 
 Adept AI emerged from stealth mode in April 2022 with a Series A funding round of $65 million from VC firms and angel investors. Adept AI has raised $415M to this date.
 Adept AI closed its last funding round on Mar 14, 2023 from a Series B round.
@@ -36,13 +36,13 @@ This funding round was co-led by General Catalyst and Spark Capital with partici
 
 ## Business Activities
 
-***What specific problem is the company or project trying to solve?***
+### What specific problem is the company or project trying to solve?
 
 Adept AI is a company that specializes in machine learning research and product development. Their work is similar to robotic process automation (RPA), a technology that uses automation, computer vision, and machine learning to automate repetitive tasks like filling out forms and responding to emails. However, Adept AI goes a step further. They're creating what they call a "general intelligence." This is a system that fosters creative collaboration between humans and computers. The goal of Adept AI's founders was to create a tool, a transformer, that could not only read and write but also actively interact within the digital world. [8]
 
 [Adept.ai](http://adept.ai/) offers a unique advantage in the field of artificial intelligence by developing an Action Transformer (ACT-1) that is trained to use digital tools like browsers and spreadsheets through a natural language interface. This innovative approach enables seamless interaction between people and computers, allowing for more intuitive and efficient utilization of digital tools. This specific capability sets [Adept.ai](http://adept.ai/) apart from its competitors, providing a distinct edge in enhancing user experience and productivity within the realm of AI technology. [6]
 
-***Who is the company's intended customer? Is there any information about the market size of this set of customers?***
+### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
 The intended customers of Adept AI are businesses and individuals looking to enhance their productivity and efficiency through advanced AI solutions. Adept AI aims to cater to enterprises seeking innovative technologies that can streamline workflows, boost creativity, and facilitate collaboration between humans and computers. By developing AI-powered tools that improve content creation, project management, and user interactions with digital tools, Adept AI targets a market segment interested in leveraging cutting-edge AI capabilities to enhance their operations.
 
@@ -51,7 +51,7 @@ Regarding the market size of these customers, the information provided does not 
 Over the past few months, Adept AI has made significant strides. It's now capable of performing complex tasks, such as importing LinkedIn URLs into recruitment software. These advances have caught the attention of strategic investors like Microsoft, Nvidia, Atlassian, and Workday. All of these companies see potential benefits in integrating Adept's AI assistant into their software offerings in the future. [19]
 
 
-***What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)***
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 In the field of Machine Learning and Generative AI, [Adept.ai](http://adept.ai/) stands out among major competitors like Alphabet-backed [DeepMind](https://deepmind.google/) and [Inflection AI](https://inflection.ai/). They are recognized for their unique approach to developing an AI assistant that can interact with various software tools via natural language commands. Their flagship model, ACT-1, is a large-scale Transformer trained to use digital tools, including web browsers like Chrome, enabling it to observe and interact with browser activities. [Adept.ai](http://adept.ai/) emphasizes the importance of large-scale human feedback to continuously evaluate and improve the performance of their AI systems. [3][36]
 
@@ -59,9 +59,9 @@ The company's innovative strategies, like training neural networks to carry out 
 
 [Adept.ai](http://adept.ai/) is pushing the boundaries of AI technology. They are committed to creating advanced AI solutions that enhance human-computer interactions, making them more natural and productive.  
 
-***Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)***
+### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-*******Disclaimer: Adept AI's code is proprietary and protected. I gathered as much information as possible from publicly available sources, cited at the end of this research. I found the open-source code for their development of Persimmon-8B and referenced the available code below.***
+### ****Disclaimer: Adept AI's code is proprietary and protected. I gathered as much information as possible from publicly available sources, cited at the end of this research. I found the open-source code for their development of Persimmon-8B and referenced the available code below.
 
 [Adept.ai](http://adept.ai/) leverages advanced tools and a complex programming stack to develop innovative AI technologies. They use Metaflow in conjunction with Argo on Kubernetes to optimize and monitor their machine learning processes. This not only enhances the efficiency of managing machine learning workflows and large language models but also aligns with their goal of creating transformers that can interact with various computer applications. [16]
 
@@ -75,11 +75,11 @@ This product’s code has been made available and can be found [here](https://gi
 
 ## Landscape
 
-***What field is the company in?***
+### What field is the company in?
 
 Adept AI operates in the field of artificial intelligence (AI), specializing in machine learning research and product development. Their focus is on creating a "general intelligence" system that promotes creative collaboration between humans and computers, aiming to develop advanced AI solutions that enhance user interactions with computers and boost productivity within the realm of AI technology. [37] 
 
-***What have been the major trends and innovations of this field over the last 5–10 years?***
+### What have been the major trends and innovations of this field over the last 5–10 years?
 
 The major trends and innovations in the field of artificial intelligence (AI) over the last 5-10 years have been characterized by significant advancements and transformative developments. Some key trends and innovations include:
 
@@ -94,7 +94,7 @@ The major trends and innovations in the field of artificial intelligence (AI) ov
 
 Overall, the last 5-10 years have witnessed a rapid evolution in artificial intelligence technologies, with a focus on enhancing capabilities, improving user interactions, ensuring ethical practices, and driving innovation across various sectors. [37]
 
-***What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?***
+### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 In the AI industry, companies gauge success through several core metrics such as funding, valuation, and revenue:
 
@@ -107,13 +107,13 @@ But it isn't all about the numbers. [Adept.ai](http://adept.ai/)'s innovative ap
 So, taking everything into account, [Adept.ai](http://adept.ai/)'s financial achievements and technological advancements have really put them on the map in the AI industry. They've shown impressive growth - their team has tripled in size from 25 to 75 members since 2023! This points to a promising future for the company. [23]
 The company's innovative strategies, like training neural networks to carry out general tasks for enterprise clients and creating a natural language interface to access software tools like Adobe Photoshop and Airtable, have earned [Adept.ai](http://adept.ai/) a prominent spot in the AI industry. Moreover, their financial growth is quite impressive. They've reached $75 million in revenue in 2024. This is a testament to their success in scaling their operations and generating significant revenue within a short period. In fact, they started their journey in 2022 and have achieved so much in such a short time! [9]
 
-***How is your company performing relative to competitors in the same field?***
+### How is your company performing relative to competitors in the same field?
 
 In the field of generative AI and machine learning, [Adept.ai](http://adept.ai/) holds its own against big players, among its 58 competitors. With $14.6 billion raised across 52 funding rounds by its competitors, [Adept.ai](http://adept.ai/) stands strong with its innovative approach in the industry. They're notably recognized for their AI assistant that can perform various tasks through text prompts, underscoring their commitment to advancing technology in the field of AI. Drawing parallels with the strategies of other AI-focused companies like [Anthropic](https://www.anthropic.com/claude), [DeepMind](https://deepmind.google/), and particularly [OpenAI](https://openai.com/) (where Sam Altman, the former boss of [Adept.ai](http://adept.ai/)'s founder, raised a reported $10 billion from Microsoft), [Adept.ai](http://adept.ai/) is also focused on fostering the growth of artificial general intelligence, or "AGI". This is a hypothetical AI system capable of making its own decisions without human input. However, there's a twist. [Adept.ai](http://adept.ai/)'s approach to AGI is more business-oriented and perhaps a bit less flashy, keeping humans firmly in control. [4][25][26].
 
 ## Recommendations
 
-***If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)***
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 If I were to give advice to [Adept.ai](http://adept.ai/), I'd suggest they consider developing AI-powered solutions that can boost creativity and collaboration in the workplace. For example, they could create a virtual brainstorming platform that uses natural language processing and machine learning. This platform could help teams generate ideas, organize thoughts, and collaborate on projects in a more efficient and structured way.
 
@@ -127,7 +127,7 @@ Finally, although Adept.ai is only a year old, they've already raised a signific
 
 >* As David Luan, one of the founders, said, they're still in the early stages. What they want to do now is, train powerful models that can do a lot. And over time, they'll figure out how to make them cheaper and smaller.* [19]
 
-***Why do you think that offering this product or service would benefit the company?***
+### Why do you think that offering this product or service would benefit the company?
 
 Introducing AI-powered tools that boost creativity and teamwork could really benefit [Adept.ai](http://adept.ai/). Here's how:
 
@@ -139,7 +139,7 @@ And what about project management? If [Adept.ai](http://adept.ai/) developed AI-
 
 So, what's the big picture here? By focusing on AI-powered products and services that enhance creativity, collaboration, content creation, and project management, [Adept.ai](http://adept.ai/) could really stand out from the crowd as a one stop shop for all businesses. They could attract a wider customer base looking for innovative tech solutions and strengthen their position as a leader in the AI industry. Plus, it'd make interacting with technology a lot more natural and productive for everyone involved. [28][29][30][31]
 
-***What technologies would this additional product or service utilize?***
+### What technologies would this additional product or service utilize?
 
 Tech tools and techniques [Adept.ai](http://adept.ai/) might use to bring their innovative AI solutions to life:
 
@@ -161,7 +161,7 @@ Tech tools and techniques [Adept.ai](http://adept.ai/) might use to bring their 
 
 By leveraging these technologies and integrating them effectively, [Adept.ai](http://adept.ai/) can create advanced AI solutions that boost creativity, teamwork, content creation, and project management. This robust tech stack paves the way for cutting-edge AI products that cater to the changing needs of businesses and individuals looking for innovative tech solutions. [10][15][16][32][33]
 
-***Why are these technologies appropriate for your solution?***
+### Why are these technologies appropriate for your solution?
 
 Here's why the technologies mentioned in the sources, such as natural language processing (NLP), machine learning, computer vision, cloud computing, Metaflow, Argo on Kubernetes, and containerization, are perfect for the AI-driven content creation and collaboration tool we're proposing for [Adept.ai](http://adept.ai/):
 
@@ -176,7 +176,7 @@ Here's why the technologies mentioned in the sources, such as natural language p
 
 By using these technologies in our proposed solution for [Adept.ai](http://adept.ai/)’s AI-driven content creation and collaboration platform, we can boost creativity, streamline processes, and provide innovative solutions that cater to businesses looking for advanced tech solutions for content marketing and collaboration. [16][29][30][34][35]
 
-***Citations:***
+### Citations:
 
 [1] [https://fourweekmba.com/adept-ai/#:~:text=Adept]
 
