@@ -6,6 +6,8 @@ Due date: 3/21/24 @ 11:59pm
 
 # _Adept Ai -Reinventing User Experience: AI That Masters Your Software_
 
+![adept logo](./adeptlogo.png) 
+
 ## Overview and Origin
 
 ### Name of company
@@ -78,7 +80,7 @@ This product’s code has been made available and can be found [here](https://gi
 
 ### What field is the company in?
 
-Adept AI operates in the field of artificial intelligence (AI), specializing in machine learning research and product development. Their focus is on creating a "general intelligence" system that promotes creative collaboration between humans and computers, aiming to develop advanced AI solutions that enhance user interactions with computers and boost productivity within the realm of AI technology. [^37] 
+Adept AI operates in the field of artificial intelligence (AI), specializing in machine learning research and product development. Their focus is on creating a "general intelligence" system that promotes creative collaboration between humans and computers, aiming to develop advanced AI solutions that enhance user interactions with computers and boost productivity within the realm of AI technology. [^36] 
 
 ### What have been the major trends and innovations of this field over the last 5–10 years?
 
