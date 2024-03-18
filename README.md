@@ -61,7 +61,7 @@ The company's innovative strategies, like training neural networks to carry out 
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-### ****Disclaimer: Adept AI's code is proprietary and protected. I gathered as much information as possible from publicly available sources, cited at the end of this research. I found the open-source code for their development of Persimmon-8B and referenced the available code below.
+### ****Disclaimer: Adept AI's code is proprietary and protected. I gathered as much information as possible from publicly available sources, cited within this research. I found the open-source code for their development of Persimmon-8B and referenced the available code below.
 
 [Adept.ai](http://adept.ai/) leverages advanced tools and a complex programming stack to develop innovative AI technologies. They use Metaflow in conjunction with Argo on Kubernetes to optimize and monitor their machine learning processes. This not only enhances the efficiency of managing machine learning workflows and large language models but also aligns with their goal of creating transformers that can interact with various computer applications. [^16]
 
@@ -125,11 +125,13 @@ By focusing on products and services that enhance creativity, collaboration, con
 
 Finally, although Adept.ai is only a year old, they've already raised a significant amount of funding. The reason? Training robust AI models is costly. Therefore, making AI technologies and tools more accessible can benefit the broader community. 
 
->* As David Luan, one of the founders, said, they're still in the early stages. What they want to do now is, train powerful models that can do a lot. And over time, they'll figure out how to make them cheaper and smaller.* [^19]
+> As David Luan, one of the founders, said, they're still in the early stages. What they want to do now is, train powerful models that can do a lot. And over time, they'll figure out how to make them cheaper and smaller. [^19]
 
 ### Why do you think that offering this product or service would benefit the company?
 
-Introducing AI-powered tools that boost creativity and teamwork could really benefit [Adept.ai](http://adept.ai/). Here's how:
+Introducing AI-powered tools that boost creativity and teamwork could really benefit [Adept.ai](http://adept.ai/).
+
+Here's how:
 
 First, imagine they create a virtual brainstorming platform powered by AI. Users could generate ideas, organize thoughts, and work together on projects more efficiently. By making the creative process more streamlined, businesses using these tools would see a boost in productivity and innovation. Sounds good, right?
 
