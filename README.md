@@ -4,6 +4,8 @@ Module 1 Challenge
 
 Due date: 3/21/24 @ 11:59pm
 
+[Githib repo:](https://github.com/ChristineChung/ai-case-study.git) 
+
 # _Adept Ai -Reinventing User Experience: AI That Masters Your Software_
 
 ![adept logo](./adeptlogo.png) 
